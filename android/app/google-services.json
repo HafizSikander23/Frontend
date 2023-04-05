@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351613962026",
+    "project_id": "neurolife-5806a",
+    "storage_bucket": "neurolife-5806a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351613962026:android:7bd3da09b56b8677f04053",
+        "android_client_info": {
+          "package_name": "com.frontend_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351613962026-d24upuk9dlcdaiko8ql781of47uk3u1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAejlZ24er0sprOca0i46cIGHdmX7eHPdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351613962026-d24upuk9dlcdaiko8ql781of47uk3u1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
